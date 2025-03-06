@@ -7,33 +7,29 @@ This project analyzes sales data to uncover key insights into business performan
 ##  Problem Statement
 Businesses need to understand their sales performance to optimize marketing strategies and improve profitability. This project provides actionable insights through data-driven analysis.
 
+📂 Files Included  
+- 📄 Dataset → `Sales_Data.csv`  
+- 📜 SQL Queries → `sales_analysis.sql`  
+- 📊 Excel Report → `sales_report.xlsx`  
+- 📈 Power BI Dashboard → `Sales_Dashboard.pbix`
+  
 ##  Dataset
-- **Source**: [Kaggle Sales Transactions Dataset](https://www.kaggle.com/)
-- **Columns**: Order Date, Product Category, Sales, Revenue, Profit, Customer Region, etc.
-- **Size**: ~10,000 rows
+- Source: [Kaggle Sales Transactions Dataset] https://www.kaggle.com/datasets/beekiran/sales-data-analysis?resource=download
+
 
 ## 🛠 Tools & Technologies Used
 - **SQL** – Data extraction, cleaning, and transformation
 - **Excel** – Initial data exploration and summary statistics
 - **Power BI/Tableau** – Interactive dashboards and visual insights
 
-##  Key Steps
-1. **Data Cleaning**: Handling missing values, duplicates, and incorrect data entries.
-2. **Exploratory Data Analysis (EDA)**: Identifying trends, seasonal patterns, and outliers.
-3. **Sales Trends Analysis**: Analyzing sales revenue across different regions and time periods.
-4. **Top Products & Customers**: Identifying best-selling products and loyal customers.
-5. **Dashboard Creation**: Visualizing insights using Power BI/Tableau.
-6. **Actionable Insights**: Providing recommendations based on findings.
 
 ## 📊 Insights & Findings
-- 🛍 **Product A** generated the highest revenue with a **15% profit margin**.
-- 🌍 **Region X** had the highest number of sales, indicating a strong market presence.
-- 📈 Sales increased by **20% in Q4**, likely due to seasonal demand.
+- 🛍 Which products are best-sellers
+- 🌍 Which cities generate the most revenue
+- 📈  What time people buy the most
 
 ## 🏆 Conclusion & Business Recommendations
-- Increase stock for high-performing products during peak seasons.
-- Focus marketing efforts on high-sales regions.
-- Optimize pricing strategies based on customer purchasing patterns.
+
 
 ## 📎 How to Use This Project
 1. Download the dataset Provided.
@@ -42,7 +38,7 @@ Businesses need to understand their sales performance to optimize marketing stra
 4. Open the Power BI/Tableau file to explore interactive dashboards.
 
 ## 📬 Contact
-Feel free to connect with me on **[LinkedIn](www.linkedin.com/in/shaqila-annisa-putri-wahyudhie-093624265)** for discussions or collaborations!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/shaqila-annisa-putri-wahyudhie-093624265) for discussions or collaborations!
 
 ---
 
